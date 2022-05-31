@@ -12,3 +12,11 @@ Here is the list of deliverables for the analysis of the school district:
 * School performance based on the budget per student
 * School performance based on the school size 
 * School performance based on the type of school
+
+
+## Deliverables: 
+* A high-level snapshot of the district's key metrics, presented in a table format
+
+<img src="./Images/district_summary_df.png" alt="District Summary">
+
+
